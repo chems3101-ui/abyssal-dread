@@ -1,0 +1,9 @@
+{
+  "entity.abyssaldread.lantern_drowned": "Noyé-Lanterne",
+  "entity.abyssaldread.deep_stalker": "Rôdeur Abyssal",
+  "entity.abyssaldread.seabed_maw": "Gueule du Fond",
+  "item.abyssaldread.abyssal_pearl": "Perle Abyssale",
+  "item.abyssaldread.lantern_drowned_spawn_egg": "Œuf d'apparition de Noyé-Lanterne",
+  "item.abyssaldread.deep_stalker_spawn_egg": "Œuf d'apparition de Rôdeur Abyssal",
+  "item.abyssaldread.seabed_maw_spawn_egg": "Œuf d'apparition de Gueule du Fond"
+}

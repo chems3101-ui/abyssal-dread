@@ -1,0 +1,7 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_deep_ocean",
+  "spawners": [
+    { "type": "abyssaldread:deep_stalker", "weight": 8, "minCount": 1, "maxCount": 1 }
+  ]
+}
